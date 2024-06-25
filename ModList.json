@@ -2,6 +2,7 @@
   {
     "id": null,
     "name": "Template Mod",
+    "Description": "A Template Mod For Making Mods",
     "Version": null,
     "GameVersion": "...",
     "IsSpriteBuiltIn": false,
