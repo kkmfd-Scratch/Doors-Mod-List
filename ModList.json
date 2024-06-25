@@ -11,5 +11,18 @@
     },
     "ModIsAddsStuffToGame": false,
     "DisableTrophys": false
+  },
+    {
+    "id": 1,
+    "name": "Mod Menu (Offical)",
+    "Description": "Offical Mod Menu For Doors",
+    "Version": 1,
+    "GameVersion": "...",
+    "IsSpriteBuiltIn": true,
+    "Sprites": {
+      "Sprite1": "null"
+    },
+    "ModIsAddsStuffToGame": false,
+    "DisableTrophys": true
   }
 ]
