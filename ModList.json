@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Template Mod",
+    "Version": null,
+    "GameVersion": "...",
+    "IsSpriteBuiltIn": false,
+    "Sprites": {
+      "Sprite1": "URL"
+    },
+    "ModIsAddsStuffToGame": false,
+    "DisableTrophys": false
+  }
+]
